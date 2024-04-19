@@ -2,7 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//This is Base Class of HRM Application
 public class BaseClass {
 	public static WebDriver driver;
 	public void launchBrowser() throws InterruptedException {
